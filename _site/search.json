@@ -26,5 +26,12 @@
     "title": "Your Name",
     "section": "Selected Work",
     "text": "Selected Work\n\n\nProject or Paper Title\nShort description of this project, paper, talk, or article.\n\n\nAnother Featured Item\nShort description of another piece of work.\n\n\nWriting, Outreach, or Media\nShort description of an article, interview, talk, or public-facing project."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
