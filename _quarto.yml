@@ -1,20 +1,21 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Reut Shachnai"
   search: false
   navbar:
     right:
-      - href: "#research"
-        text: Research Interests
-      - href: "#publications"
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
         text: Publications
-      - href: "#press"
+      - href: press.qmd
         text: Press
-      - href: "#cv"
+      - href: cv.qmd
         text: CV
-      - href: "#contact"
+      - href: contact.qmd
         text: Contact
 
 format:

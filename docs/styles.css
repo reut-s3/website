@@ -1,1 +1,178 @@
-/* css styles */
+:root {
+  --bg: #fbfaf7;
+  --text: #252525;
+  --muted: #686868;
+  --accent: #6f7f76;
+  --accent-dark: #4f5f58;
+  --border: #ded8cf;
+}
+
+/* Overall page */
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.65;
+}
+
+/* Main content width */
+main {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+/* Navbar */
+.navbar {
+  background: var(--bg);
+  border-bottom: none;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+
+.navbar-title {
+  color: var(--text);
+  font-size: 1.45rem;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
+
+.navbar-nav .nav-link {
+  color: var(--text);
+  text-transform: uppercase;
+  font-size: 0.76rem;
+  letter-spacing: 0.16em;
+  padding-left: 0.85rem;
+  padding-right: 0.85rem;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: var(--accent-dark);
+}
+
+.navbar a {
+  text-decoration: none;
+}
+
+/* Hide search icon */
+.quarto-search-button,
+.aa-SubmitButton,
+#quarto-search {
+  display: none !important;
+}
+
+/* Hero section */
+.hero {
+  text-align: center;
+  padding: 2.5rem 0 2.2rem;
+}
+
+/* Portrait */
+.portrait {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 6px solid #ffffff;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
+  margin-bottom: 1.8rem;
+}
+
+/* Name */
+.hero h1 {
+  font-size: clamp(3rem, 4.5vw, 3.7rem);
+  font-weight: 400;
+  line-height: 1.05;
+  letter-spacing: -0.03em;
+  margin: 0 0 0.8rem;
+}
+
+/* Subtle divider under name */
+.divider {
+  width: 100%;
+  max-width: 640px;
+  height: 1px;
+  background: var(--border);
+  margin: 1.25rem auto 1.9rem;
+}
+
+/* Tagline */
+.hero h2 {
+  max-width: 760px;
+  margin: 0 auto 1.6rem;
+  font-size: clamp(1.65rem, 2.4vw, 2.05rem);
+  font-weight: 400;
+  line-height: 1.3;
+  letter-spacing: -0.015em;
+}
+
+/* Bio line */
+.hero p {
+  max-width: 720px;
+  margin: 0 auto;
+  color: var(--muted);
+  font-size: 1.08rem;
+  line-height: 1.55;
+}
+
+/* General links */
+a {
+  color: var(--accent-dark);
+}
+
+a:hover {
+  color: var(--text);
+}
+
+/* Remove extra Quarto title spacing if present */
+.quarto-title-block {
+  display: none;
+}
+
+/* Mobile adjustments */
+@media (max-width: 760px) {
+  main {
+    max-width: 100%;
+  }
+
+  .navbar-title {
+    font-size: 1.25rem;
+  }
+
+  .navbar-nav .nav-link {
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+  }
+
+  .hero {
+    padding-top: 2rem;
+  }
+
+  .portrait {
+    width: 165px;
+    height: 165px;
+  }
+
+  .hero h1 {
+    font-size: 2.8rem;
+  }
+
+  .hero h2 {
+    font-size: 1.45rem;
+  }
+
+  .hero p {
+    font-size: 1rem;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Adds breathing room when jumping to a section from the navbar */
+section,
+h2 {
+  scroll-margin-top: 90px;
+}
