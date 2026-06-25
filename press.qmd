@@ -1,5 +1,5 @@
 ---
-title: "press"
-format: html
+title: "Press"
 ---
 
+Press coverage coming soon.
