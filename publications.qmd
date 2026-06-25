@@ -7,47 +7,36 @@ title: "Publications"
 ## Journal articles
 
 **Shachnai, R.**, Heck, I. A., King, R. A., & Kinzler, K. D. (2026).  
-Who gets to the top? Children's and young adults' thinking about career hierarchies and their future career attainment. *Child Development, 97*(3), 677–695.  
-[Article](https://doi.org/10.1093/chidev/aacaf044)
+Who gets to the top? Children's and young adults' thinking about career hierarchies and their future career attainment. *Child Development, 97*(3), 677–695.
 
 Leonard, J. A., & **Shachnai, R.** (2026).  
-Dyadic decisions about effort: How caregivers shape young children’s persistence. *Current Directions in Psychological Science*.  
-[Article](https://doi.org/10.1177/09637214251401848)
+Dyadic decisions about effort: How caregivers shape young children’s persistence. *Current Directions in Psychological Science*.
 
 Leshin, R. A.\*, **Shachnai, R.**\*, Tian, Y., Wang, M., & Cimpian, A. (2025).  
-What predicts girls’ and boys’ political ambition? Evidence from the United States and China. *Journal of Experimental Psychology: General*.  
-[Article](https://doi.org/10.1037/xge0001834)
+What predicts girls’ and boys’ political ambition? Evidence from the United States and China. *Journal of Experimental Psychology: General*.
 
 **Shachnai, R.**, Asaba, M., Hu, L., & Leonard, J. A. (2025).  
-Pointing out learning opportunities reduces overparenting. *Child Development, 96*(2), 679–690.  
-[Article](https://doi.org/10.1111/cdev.14198)
+Pointing out learning opportunities reduces overparenting. *Child Development, 96*(2), 679–690.
 
 Misgav, K., **Shachnai, R.**, Abramson, L., Knafo-Noam, A., & Daniel, E. (2023).  
-Personal values and sustained attention as predictors of children’s helping behavior in middle childhood. *Journal of Personality, 91*(3), 773–788.  
-[Article](https://doi.org/10.1111/jopy.12773)
+Personal values and sustained attention as predictors of children’s helping behavior in middle childhood. *Journal of Personality, 91*(3), 773–788.
 
 **Shachnai, R.**, Kushnir, T., & Bian, L. (2022).  
-Walking in her shoes: Pretending to be a female role model increases young girls’ persistence in science. *Psychological Science, 33*(11), 1818–1827.  
-[Article](https://doi.org/10.1177/09567976221119393)
+Walking in her shoes: Pretending to be a female role model increases young girls’ persistence in science. *Psychological Science, 33*(11), 1818–1827.
 
 **Shachnai, R.**, & Daniel, E. (2020).  
-Children's concepts of personal values. *Infant and Child Development, 29*(6), e2205.  
-[Article](https://doi.org/10.1002/icd.2205)
+Children's concepts of personal values. *Infant and Child Development, 29*(6), e2205.
 
 Jaxon, J.\*, Lei, R. F.\*, **Shachnai, R.**, Chestnut, E. K., & Cimpian, A. (2019).  
-The acquisition of gender stereotypes about intellectual ability: Intersections with race. *Journal of Social Issues, 75*(4), 1192–1215.  
-[Article](https://doi.org/10.1111/josi.12352)
+The acquisition of gender stereotypes about intellectual ability: Intersections with race. *Journal of Social Issues, 75*(4), 1192–1215.
 
 ## Conference proceedings
 
 **Shachnai, R.**\*, Kleiman-Weiner, M.\*, Berke, M., & Leonard, J. A. (2025).  
-When Bayesians take over: A computational model of parental intervention. *Proceedings of the 47th Annual Conference of the Cognitive Science Society*, 225–231.  
-[PDF](https://escholarship.org/uc/item/1q346255)
+When Bayesians take over: A computational model of parental intervention. *Proceedings of the 47th Annual Conference of the Cognitive Science Society*, 225–231.
 
 **Shachnai, R.**, Belluck, A., & Leonard, J. A. (2025).  
-Parents underestimate young children’s abilities which may undermine their parenting practices. *Proceedings of the 47th Annual Conference of the Cognitive Science Society*, 5817–5824.  
-[PDF](https://escholarship.org/uc/item/43n8g8vt)
+Parents underestimate young children’s abilities which may undermine their parenting practices. *Proceedings of the 47th Annual Conference of the Cognitive Science Society*, 5817–5824.
 
 Wang, E., **Shachnai, R.**, & Leonard, J. A. (2025).  
-Hidden costs of overparenting: Children feel worse about their abilities when adults take over for their peers. *Proceedings of the 47th Annual Conference of the Cognitive Science Society*.  
-[PDF](https://escholarship.org/uc/item/6sn2m0s4)
+Hidden costs of overparenting: Children feel worse about their abilities when adults take over for their peers. *Proceedings of the 47th Annual Conference of the Cognitive Science Society*.
