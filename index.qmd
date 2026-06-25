@@ -6,11 +6,11 @@ title: ""
 
 ![](images/headshot.png){.portrait}
 
-# Your Name
+# Reut Shachnai
 
-## I’m a [role] studying [main topic], [second topic], and [third topic].
+## I’m a cognitive scientist studying how children’s motivation is shaped and undermined by their social worlds.
 
-I am a [position/title] at [institution/company]. My work focuses on [short description of your work]. I am especially interested in [one broader question or theme].
+I am a PhD candidate in the Department of Psychology at Yale University.
 
 [Download CV](cv.pdf){.button}
 

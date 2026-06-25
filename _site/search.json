@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Your Name",
+    "title": "Reut Shachnai",
     "section": "",
-    "text": "I am a [position/title] at [institution/company]. My work focuses on [short description of your work]. I am especially interested in [one broader question or theme].\nDownload CV"
+    "text": "I am a PhD candidate in the Department of Psychology at Yale University.\nDownload CV"
   },
   {
     "objectID": "index.html#im-a-role-studying-main-topic-second-topic-and-third-topic.",
@@ -16,14 +16,14 @@
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
-    "title": "Your Name",
+    "title": "Reut Shachnai",
     "section": "Research Interests",
     "text": "Research Interests\nMy work explores [topic]. I am interested in how [people/systems/culture/technology/etc.] shape [outcome]."
   },
   {
     "objectID": "index.html#selected-work",
     "href": "index.html#selected-work",
-    "title": "Your Name",
+    "title": "Reut Shachnai",
     "section": "Selected Work",
     "text": "Selected Work\n\n\nProject or Paper Title\nShort description of this project, paper, talk, or article.\n\n\nAnother Featured Item\nShort description of another piece of work.\n\n\nWriting, Outreach, or Media\nShort description of an article, interview, talk, or public-facing project."
   },
@@ -33,5 +33,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#im-a-cognitive-scientist-studying-how-childrens-motivation-is-shaped-and-undermined-by-their-social-worlds.",
+    "href": "index.html#im-a-cognitive-scientist-studying-how-childrens-motivation-is-shaped-and-undermined-by-their-social-worlds.",
+    "title": "Reut Shachnai",
+    "section": "",
+    "text": "I am a PhD candidate in the Department of Psychology at Yale University.\nDownload CV"
   }
 ]
