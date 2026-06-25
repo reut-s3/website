@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Your Name",
+    "section": "",
+    "text": "I am a [position/title] at [institution/company]. My work focuses on [short description of your work]. I am especially interested in [one broader question or theme].\nDownload CV"
+  },
+  {
+    "objectID": "index.html#im-a-role-studying-main-topic-second-topic-and-third-topic.",
+    "href": "index.html#im-a-role-studying-main-topic-second-topic-and-third-topic.",
+    "title": "Your Name",
+    "section": "",
+    "text": "I am a [position/title] at [institution/company]. My work focuses on [short description of your work]. I am especially interested in [one broader question or theme].\nDownload CV"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Your Name",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy work explores [topic]. I am interested in how [people/systems/culture/technology/etc.] shape [outcome]."
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Your Name",
+    "section": "Selected Work",
+    "text": "Selected Work\n\n\nProject or Paper Title\nShort description of this project, paper, talk, or article.\n\n\nAnother Featured Item\nShort description of another piece of work.\n\n\nWriting, Outreach, or Media\nShort description of an article, interview, talk, or public-facing project."
+  }
+]

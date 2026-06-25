@@ -1,5 +1,45 @@
 ---
-title: "Reut Shachnai"
+title: ""
 ---
 
-Blurb
+::: {.hero}
+
+![](images/headshot.png){.portrait}
+
+# Your Name
+
+## I’m a [role] studying [main topic], [second topic], and [third topic].
+
+I am a [position/title] at [institution/company]. My work focuses on [short description of your work]. I am especially interested in [one broader question or theme].
+
+[Download CV](cv.pdf){.button}
+
+:::
+
+## Research Interests
+
+My work explores [topic]. I am interested in how [people/systems/culture/technology/etc.] shape [outcome].
+
+## Selected Work
+
+::: {.card-grid}
+
+::: {.card}
+### Project or Paper Title
+
+Short description of this project, paper, talk, or article.
+:::
+
+::: {.card}
+### Another Featured Item
+
+Short description of another piece of work.
+:::
+
+::: {.card}
+### Writing, Outreach, or Media
+
+Short description of an article, interview, talk, or public-facing project.
+:::
+
+:::
