@@ -176,3 +176,16 @@ section,
 h2 {
   scroll-margin-top: 90px;
 }
+
+/* Publication page styling */
+.publications-list {
+  margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.publication {
+  padding-left: 2rem;
+  text-indent: -2rem;
+  margin-bottom: 1.35rem;
+  line-height: 1.55;
+}
