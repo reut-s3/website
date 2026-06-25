@@ -8,7 +8,10 @@ title: ""
 
 # Reut Shachnai
 
-## I’m a cognitive scientist studying how children’s motivation is shaped and undermined by their social worlds.
+::: {.divider}
+:::
+
+## I’m a cognitive scientist studying the barriers that undermine children’s motivation and how we can reduce them to help children thrive.
 
 I am a PhD candidate in the Department of Psychology at Yale University.
 
@@ -16,30 +19,36 @@ I am a PhD candidate in the Department of Psychology at Yale University.
 
 :::
 
-## Research Interests
+## Research Interests {#research}
 
-My work explores [topic]. I am interested in how [people/systems/culture/technology/etc.] shape [outcome].
+My work explores the social and cognitive factors that shape children’s motivation. I am especially interested in how children’s social worlds, including the adults who raise and teach them, can support or undermine their persistence, curiosity, and learning.
 
-## Selected Work
+## Publications {#publications}
 
-::: {.card-grid}
+Add your publications here.
 
-::: {.card}
-### Project or Paper Title
+For example:
 
-Short description of this project, paper, talk, or article.
-:::
+- Shachnai, R., Author, A., & Author, B. (2025). Title of paper. *Journal Name*.
+- Shachnai, R., Author, A., & Author, B. (2024). Title of paper. *Journal Name*.
 
-::: {.card}
-### Another Featured Item
+## Press {#press}
 
-Short description of another piece of work.
-:::
+Add press coverage, interviews, podcasts, or media mentions here.
 
-::: {.card}
-### Writing, Outreach, or Media
+For example:
 
-Short description of an article, interview, talk, or public-facing project.
-:::
+- [Article title](https://example.com), Publication Name
+- [Podcast/interview title](https://example.com), Outlet Name
 
-:::
+## CV {#cv}
+
+You can download my CV here:
+
+[Download CV](cv.pdf){.button}
+
+## Contact {#contact}
+
+I can be reached at:
+
+[reut.v3@gmail.com](mailto:reut.v3@gmail.com)

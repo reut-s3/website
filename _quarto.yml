@@ -3,17 +3,18 @@ project:
 
 website:
   title: "Reut Shachnai"
+  search: false
   navbar:
     right:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
-      - href: writing.qmd
-        text: Writing
-      - href: cv.qmd
+      - href: "#research"
+        text: Research Interests
+      - href: "#publications"
+        text: Publications
+      - href: "#press"
+        text: Press
+      - href: "#cv"
         text: CV
-      - href: contact.qmd
+      - href: "#contact"
         text: Contact
 
 format:
